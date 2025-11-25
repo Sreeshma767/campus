@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "LAB INTERNALlllll Helloooooo Worldddddyyyyyyyyyyyyyyy!!" );
+        System.out.println( "LABbbbbb INTERNALlllll Helloooooo Worldddddyyyyyyyyyyyyyyy!!" );
         // file->import->smart import->clone url->paste the url->next->next->finish
         // right click->go to pom.xml then solve the errors then save it and 
         // again right click prj then click on runas
